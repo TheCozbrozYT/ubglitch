@@ -1,0 +1,88 @@
+html,
+body {
+  font: "arial";
+  padding: 4px;
+}
+
+.form {
+  color: purple;
+  border-color: purple;
+  background-color: white;
+  border-radius: 8px;
+  margin: 12px;
+  transition-duration: 0.4s;
+  padding: 12px 32px;
+}
+.form:hover {
+  background-color: purple;
+  color: white;
+  border-color: none;
+}
+#background {
+  border: double;
+  text-align: center;
+  color: #c897a0;
+  border-color: royalblue;
+}
+
+.amogus {
+  border-radius: 4px;
+  color: gray;
+  transition-duration: 1s;
+  background-color: ;
+  margin: 5px;
+}
+#amogus:hover {
+  padding: 12px 30px;
+}
+
+#disc {
+  font-style:none;
+  color:black;
+}
+
+.nav-item {
+  display: inline;
+  font-size: 1.08em;
+  color: blue;
+  margin: 10px;
+}
+
+#faq {
+  text-align: center;
+  padding: 25px;
+  background-color: beige;
+}
+
+#amogi {
+  border-color: brown;
+}
+#rick {
+  font-family: "Papyrus", fantasy;
+  font-size: 24px;
+  padding: 17px;
+}
+#settings {
+  margin-left: 1350px;
+}
+body {
+  background-color: white;
+  color: black;
+}
+.card {
+  margin-left: 100px;
+  margin-top: 15px;
+}
+.dark-mode {
+  background-color: rgb(31, 31, 31);
+  color: rgb(118, 151, 217);
+}
+#tc {
+  border-color: black;
+  border-style: ridge;
+}
+#changelog {
+  border-color: black;
+  background-color: blue;
+  color: whitesmoke;
+}
